@@ -10,3 +10,6 @@ Install the required dependencies like pytorch, numpy, etc. Keep in mind to use 
 ```bash
 pip install nltk
 nltk.download('punkt_tab')
+```
+## Running
+For convienience there is a Chatbot_master.ipynb file. To create new prompts, edit the intents.json file.
